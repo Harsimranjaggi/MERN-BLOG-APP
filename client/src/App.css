@@ -1,0 +1,7 @@
+body {
+    margin: 0; /* Optional: Remove default margin */
+    min-height: 100vh; /* Optional: Set minimum height for full viewport coverage */
+    background: linear-gradient(to bottom, #f0f9ff, #e0f2f1); /* Light blue to lighter blue */
+
+  }
+  
